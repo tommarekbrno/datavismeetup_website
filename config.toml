@@ -16,16 +16,20 @@ googleAnalytics = ""
 # Copyright
 copyright = "&copy;2022 datavizmeetup"
 
+
 [params]
 
   # Metadata for search engines and social sharing
-  author = "datavizmeetup"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "data+vis meetup"
+  description = "Povídáme si o vizualizaci dat. Každé dva měsíce v Brně."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
   # Favicon
   favicon = "favicon.ico"
+
+  [params.custom.css]
+  enable = true
 
   # Section - Visual
   [params.visual]
@@ -51,11 +55,11 @@ copyright = "&copy;2022 datavizmeetup"
       heading = "Přidejte se"
 
       [[params.links.list1.link]]
-        text = "Další meetup"
+        text = "Program meetupu"
         url = "/program"
 
       [[params.links.list1.link]]
-        text = "Gmail skupina"
+        text = "Google skupina"
         url = "#"
 
       [[params.links.list1.link]]
