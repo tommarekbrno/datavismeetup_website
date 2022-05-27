@@ -1,6 +1,6 @@
 +++
-title = "Jenny Jones"
-tagline = "Designer. Stylist. Nomad."
+title = "data+vis meetup"
+tagline = "Povídáme si o vizualizaci dat"
 +++
 
-Donec at libero id lectus porta dapibus eu in nibh.
+Každé dva měsíce v Brně. Sedmý data+vis meetup se bude konat **ve středu 22. června** od 18 hodin v kavárně Trojka v Brně.
