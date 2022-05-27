@@ -1,9 +1,10 @@
 # Site settings
-baseURL = "https://example.com"
+baseURL = "https://tommarekbrno.github.io/datavizmeetup/"
 languageCode = "en-US"
 title = "Split - HTML Template Demo"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+publishDir = "docs"
 
 # Local preview mode
 relativeURLs = true
