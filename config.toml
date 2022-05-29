@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://tommarekbrno.github.io/datavizmeetup/"
 languageCode = "en-US"
-title = "datavizmeetup #brno"
+title = "data+vis meetup #brno"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 publishDir = "docs"
@@ -21,7 +21,7 @@ copyright = "&copy;2022 datavizmeetup"
 
   # Metadata for search engines and social sharing
   author = "data+vis meetup"
-  description = "Povídáme si o vizualizaci dat. Každé dva měsíce v Brně."
+  description = "Povídáme si o datech, jejich vizualizaci a komunikaci. Jednou za dva měsíce, v Brně."
   shareImage = "images/social.jpg"
   twitterHandle = "onepagelove"
 
@@ -37,7 +37,7 @@ copyright = "&copy;2022 datavizmeetup"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background1.jpg"
+      file = "images/background3.jpg"
       position = "center center"
 
     # Video
