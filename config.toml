@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://tommarekbrno.github.io/datavizmeetup/"
+baseURL = "http://datavismeetup.cz/"
 languageCode = "en-US"
 title = "data+vis meetup #brno"
 theme = "hugo-split-theme"
