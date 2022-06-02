@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://datavismeetup.cz/"
+baseURL = "https://datavismeetup.cz/"
 languageCode = "en-US"
 title = "data+vis meetup #brno"
 theme = "hugo-split-theme"
@@ -14,7 +14,7 @@ uglyURLs = true
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2022 datavizmeetup"
+copyright = "&copy;2022 data+vis meetup"
 
 
 [params]
