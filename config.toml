@@ -55,16 +55,17 @@ copyright = "&copy;2022 data+vis meetup"
       heading = "Přidejte se"
 
       [[params.links.list1.link]]
+        text = "Jak to funguje?"
+        url = "/jaktofunguje"
+
+      [[params.links.list1.link]]
         text = "Program meetupu"
         url = "/program"
 
       [[params.links.list1.link]]
         text = "Google skupina"
-        url = "#"
+        url = "https://groups.google.com/g/datavis-meetup/"
 
-      [[params.links.list1.link]]
-        text = "WhatsApp skupina"
-        url = "#"
 
   # Links List #2
   [[params.links]]
@@ -73,7 +74,7 @@ copyright = "&copy;2022 data+vis meetup"
 
       [[params.links.list2.link]]
         text = "Zápisy setkání"
-        url = "#"
+        url = "https://secretive-legume-d19.notion.site/data-vis-meetup-f23461cc5478422785292c28d2aa7b9e"
 
 
 

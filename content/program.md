@@ -11,20 +11,20 @@ Opět nás čeká hvězdný program... ✨
 
 **18:15–19:45:** Hlavní část (+- 25 minut na blok / krátký talk + diskuze)
 
-## **Mapy s lehkostí**
+## **1. Mapy s lehkostí**
 
 *Eliška Vlčková, cestovatelka*
 
 Čemu se vyhnout, nevyhnout, na co si dát pozor?
 Potřebuju udělat mapu - jaké mám možnosti? Zabrousíme do různých možností tvorby map, podíváme se na místa, kde vzít podkladová data, a povíme si něco i o kartogramech a dalších metodách tematické kartografie.
 
-## **Data a dopravní model: Per aspera ad astra**
+## **2. Data a dopravní model: Per aspera ad astra**
 
 *Dmitrii Grishchuk, KAM*
 
 Jaká data vyžaduje příprava agentního dopravního modelu a v čem je takový model lepší než klasický.
 
-## **Ani já tomu nerozumím**
+## **3. Ani já tomu nerozumím**
 
 *Honza Boček, datový novinář ČRo*
 
