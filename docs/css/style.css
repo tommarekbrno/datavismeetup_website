@@ -4,6 +4,12 @@ body.page-template-page-fullsingle-split {
     background-color: #021a40;
 }
 
+@media (max-width:629px) {
+  img#namobilune {
+    display: none;
+  }
+} 
+
 .split-intro .tagline {
     color: #fefeff;
   }
